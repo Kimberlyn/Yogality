@@ -3,4 +3,4 @@ Consumer-facing virtual reality applications are currently being dominated by th
 
 Developed by: Kimberlyn Krishnan, Kim Nguyen, and Lynn Nguyen
 
-![](images/NatureLetsBegin.png)
+![](images/NatureLetsBegin.PNG)
