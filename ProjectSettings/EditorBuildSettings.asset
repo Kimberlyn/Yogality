@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/VRSampleScenes/Scenes/MainMenu.unity
+    guid: 3959fdef1e02d4d4fb01414c7de44414
+  - enabled: 0
+    path: Assets/Scenes/Scenery.unity
+    guid: 02352d161f6032a40a0bc4c4ec3c17be
+  - enabled: 0
+    path: Assets/Scenes/Indoor Env.unity
+    guid: 3b15ccc250381f4459c9df3a983ead9a
+  - enabled: 1
+    path: Assets/MAIN FOLDER/Outdoor Env.unity
+    guid: 8e79b84a3b267c64e87c227dd72cb8a7
+  - enabled: 1
+    path: Assets/MAIN FOLDER/StartMenu.unity
+    guid: d65a58de9fa86d242bb0d9a1dcc5edb3
+  - enabled: 1
+    path: Assets/MAIN FOLDER/Settings.unity
+    guid: aea5d38a2c2a8dd418e8d5ddf233b622
+  - enabled: 1
+    path: Assets/MAIN FOLDER/SceneryMenu.unity
+    guid: b4791c081fb81ce4c9081515293005fc
+  - enabled: 1
+    path: Assets/MAIN FOLDER/About Us.unity
+    guid: fec4929c5f8981d4b98c2fc0ef466aad
+  - enabled: 1
+    path: Assets/MAIN FOLDER/StudioMenu.unity
+    guid: d2d6d7a8c2bfc0d4e9b3d26e7afdb001
+  - enabled: 1
+    path: Assets/MAIN FOLDER/Final Studio Menu.unity
+    guid: 1bc37f09ea2a1a94baa0e235402d5af3
+  m_configObjects: {}
